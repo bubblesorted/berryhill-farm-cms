@@ -11,10 +11,10 @@
   },
   "devDependencies": {},
   "dependencies": {
-    "@strapi/strapi": "4.25.0",
-    "@strapi/plugin-users-permissions": "4.25.0",
-    "@strapi/plugin-i18n": "4.25.0",
-    "@strapi/plugin-cloud": "4.25.0",
+    "@strapi/strapi": "4.15.5",
+    "@strapi/plugin-users-permissions": "4.15.5",
+    "@strapi/plugin-i18n": "4.15.5",
+    "@strapi/plugin-cloud": "4.15.5",
     "better-sqlite3": "8.4.0"
   },
   "author": "Berry Hill Farm",
