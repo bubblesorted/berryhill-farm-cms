@@ -1,0 +1,3 @@
+# To prevent search engines from seeing the admin area
+User-agent: *
+Disallow: /admin
